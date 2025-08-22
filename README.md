@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ADean27
-- 👀 I’m interested in fed tech, digital service delivery, content management, and other mysteries of the universe.
+- 👀 I’m interested in federal tech, digital service delivery, content management, and other mysteries of the universe.
 - 🌱 I’m currently learning something new everyday.
 
 <!---
