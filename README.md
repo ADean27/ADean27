@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ADean27
-- 👀 I’m interested in federal tech, digital service delivery, content management, and other mysteries of the universe.
-- 🌱 I’m currently learning something new everyday.
+- 👀 I’m interested in federal tech, digital strategy, service delivery, content management, and other mysteries of the universe.
+- 🌱 I learn something new every day.
 
 <!---
 ADean27/ADean27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
